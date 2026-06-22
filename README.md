@@ -71,5 +71,5 @@ Import file SQL yang tersedia pada folder proyek ke database **db_absensi**.
 Buka browser dan akses:
 
 ```text
-http://localhost/absensi_siswa
+http://localhost/absensi/login.php
 ```
